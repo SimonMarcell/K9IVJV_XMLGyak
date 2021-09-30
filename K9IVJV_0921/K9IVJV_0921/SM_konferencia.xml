@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<konferencia cim="A kutyak szortelenitese almaecettel" helyszin="Gasztromuhely" datum="2021.09.21.">
-    <hallgatok>
-        <hallgato nev="Mike Okislong" lakcim="Llanfairpwllgwyngyll Apple Street 2."/>
-        <hallgato nev="Johnny Testicles" lakcim="Llanfairpwllgwyngyll Apple Street 1."/>
-    </hallgatok>
-    <eloado nev="Cesar Millan" adoszam="123154" lakcim="Llanfairpwllgwyngyll Apple Street 3."/>
-</konferencia>
