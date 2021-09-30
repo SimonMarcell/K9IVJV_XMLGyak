@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE minta SYSTEM "SM_ertodtd.dtd">
+
+<minta>
+    <A Aa="id1">
+        <Ab>
+            <Abx>Abx</Abx>
+            <Aby>Aby</Aby>
+        </Ab>
+        <Ab>
+            <Abx>Abx</Abx>
+            <Aby>Aby</Aby>
+        </Ab>
+        <Ac>
+            <Acd>Acd</Acd>
+            <Ace>Ace</Ace>
+        </Ac>
+    </A>
+    <A_B>
+        <A_Bc>A_Bc</A_Bc>
+    </A_B>
+    <B Ba="id2">
+        <Bb>
+            <Bbx>Bbx</Bbx>
+            <Bby>Bby</Bby>
+        </Bb>
+    </B>
+    <C Ca="id3">
+        <Cb>Cb</Cb>
+    </C>
+</minta>

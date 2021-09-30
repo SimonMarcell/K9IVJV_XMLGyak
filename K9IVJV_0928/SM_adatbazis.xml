@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE adatbazis SYSTEM "SM_adatbazis.dtd">
+
+<adatbazis>
+    <dolgozo kod="id1">
+        <nev>John Proctor</nev>
+        <fizetes>2000</fizetes>
+    </dolgozo>
+    <dolgozo kod="id2">
+        <nev>Betty Paris</nev>
+        <fizetes>750</fizetes>
+    </dolgozo>
+</adatbazis>
