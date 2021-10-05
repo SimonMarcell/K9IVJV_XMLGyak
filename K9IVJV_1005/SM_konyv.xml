@@ -2,24 +2,24 @@
 <!-- <!DOCTYPE konyvek SYSTEM "SM_konyv.dtd"> -->
 
 <konyvek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SM_konyv.xsd">
-	<konyv id="konyv1">
-		<cim>DarkNet - avagy az internet sötét oldala</cim>
-		<kiadas_eve>2021</kiadas_eve>
-		<kiado>BBS-Info Kft.</kiado>
-		<szerzo>Nagy Róbert</szerzo>
-		<absztrakt>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</absztrakt>
-	</konyv>
-	<konyv id="konyv2">
-		<cim>Android zsebkönyv </cim>
-		<kiadas_eve>2019</kiadas_eve>
-		<kiado>BBS-Info Kft.</kiado>
-		<szerzo>Bártfai Barnabás</szerzo>
-		<szerzo>Judit Cohner</szerzo>
-	</konyv>
-	<konyv id="konyv3">
-		<cim>Influencer videók készítése netre</cim>
-		<kiadas_eve>2020</kiadas_eve>
-		<kiado>BBS-Info Kft.</kiado>
-		<szerzo>Nagy Róbert</szerzo>
-	</konyv>
+    <konyv id="konyv1">
+        <cim>DarkNet - avagy az internet sötét oldala</cim>
+        <kiadas_eve>2021</kiadas_eve>
+        <kiado>BBS-Info Kft.</kiado>
+        <szerzo>Nagy Róbert</szerzo>
+        <absztrakt>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</absztrakt>
+    </konyv>
+    <konyv id="konyv2">
+        <cim>Android zsebkönyv </cim>
+        <kiadas_eve>2019</kiadas_eve>
+        <kiado>BBS-Info Kft.</kiado>
+        <szerzo>Bártfai Barnabás</szerzo>
+        <szerzo>Judit Cohner</szerzo>
+    </konyv>
+    <konyv id="konyv3">
+        <cim>Influencer videók készítése netre</cim>
+        <kiadas_eve>2020</kiadas_eve>
+        <kiado>BBS-Info Kft.</kiado>
+        <szerzo>Nagy Róbert</szerzo>
+    </konyv>
 </konyvek>
