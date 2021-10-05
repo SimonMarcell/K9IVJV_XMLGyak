@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<orarend xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SM_orarend.xsd">
+    <ora id="ora1" tipus="eloadas">
+        <targy>Algoritmusok és vizsgálatuk</targy>
+        <idopont>
+            <nap>Hétfő</nap>
+            <tol>8:00</tol>
+            <ig>10:00</ig>
+        </idopont>
+        <helyszin>A3 313.</helyszin>
+        <oktato>Dr. Házy Attila</oktato>
+        <szak>PTI|MI</szak>
+    </ora>
+    <ora id="ora2" tipus="gyakorlat">
+        <targy>Algoritmusok és vizsgálatuk</targy>
+        <idopont>
+            <nap>Hétfő</nap>
+            <tol>10:00</tol>
+            <ig>12:00</ig>
+        </idopont>
+        <helyszin>A3 313.</helyszin>
+        <oktato>Dr. Házy Attila</oktato>
+        <szak>PTI|MI</szak>
+    </ora>
+    <ora id="ora3" tipus="eloadas">
+        <targy>Web technológiák 1.</targy>
+        <idopont>
+            <nap>Hétfő</nap>
+            <tol>12:00</tol>
+            <ig>14:00</ig>
+        </idopont>
+        <helyszin>A1 305.</helyszin>
+        <oktato>Agárdi Anita</oktato>
+        <szak>PTI|MI</szak>
+    </ora>
+    <ora id="ora4" tipus="gyakorlat">
+        <targy>Web technológiák 1.</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>16:00</tol>
+            <ig>18:00</ig>
+        </idopont>
+        <helyszin>Informatika épület 103.</helyszin>
+        <oktato>Agárdi Anita</oktato>
+        <szak>PTI|MI</szak>
+    </ora>
+    <ora id="ora5" tipus="elaodas">
+        <targy>Mesterséges intelligencia alapok</targy>
+        <idopont>
+            <nap>Hétfő</nap>
+            <tol>14:00</tol>
+            <ig>17:00</ig>
+        </idopont>
+        <helyszin>A1 XXXII.</helyszin>
+        <oktato>Dr. Dudás László</oktato>
+        <szak>PTI|MI</szak>
+    </ora>
+    <ora id="ora6" tipus="gyakorlat">
+        <targy>Mesterséges intelligencia alapok</targy>
+        <idopont>
+            <nap>Szerda</nap>
+            <tol>13:00</tol>
+            <ig>14:00</ig>
+        </idopont>
+        <helyszin>Informatika épület 15.</helyszin>
+        <oktato>Dr. Dudás László</oktato>
+        <szak>PTI|MI</szak>
+    </ora>
+    <ora id="ora7" tipus="Előadás">
+        <targy>Adatkezelés XML-ben</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>12:00</tol>
+            <ig>14:00</ig>
+        </idopont>
+        <helyszin>A2 földszint I.</helyszin>
+        <oktato>Dr Bednarik László</oktato>
+        <szak>PTI</szak>
+    </ora>
+    <ora id="ora8" tipus="Gyakorlat">
+        <targy>Adatkezelés XML-ben</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>14:00</tol>
+            <ig>16:00</ig>
+        </idopont>
+        <helyszin>Informatika épület 103.</helyszin>
+        <oktato>Dr Bednarik László</oktato>
+        <szak>PTI</szak>
+    </ora>
+    <ora id="ora9" tipus="Előadás">
+        <targy>Vállalati információs rendszerek fejlesztése</targy>
+        <idopont>
+            <nap>Szerda</nap>
+            <tol>16:00</tol>
+            <ig>18:00</ig>
+        </idopont>
+        <helyszin>Informatika épület 103.</helyszin>
+        <oktato>Dr. Sasvári Péter László</oktato>
+        <szak>PTI</szak>
+    </ora>
+    <ora id="ora10" tipus="Gyakorlat">
+        <targy>Vállalati információs rendszerek fejlesztése</targy>
+        <idopont>
+            <nap>Szerda</nap>
+            <tol>18:00</tol>
+            <ig>20:00</ig>
+        </idopont>
+        <helyszin>Informatika épület 103.</helyszin>
+        <oktato>Dr. Sasvári Péter László</oktato>
+        <szak>PTI</szak>
+    </ora>
+</orarend>
