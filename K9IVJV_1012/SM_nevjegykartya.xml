@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nevjegykartyak xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SM_nevjegykartya.xsd">
+	<nevjegykartya>
+		<nev>Simon Marcell</nev>
+		<ceg>
+			<nev>Morgan Stanley Magyarország Elemző Kft.</nev>
+			<cim>
+				<iranyitoszam>1095</iranyitoszam>
+				<varos>Budapest</varos>
+				<utca>Lechner Ödön fasor</utca>
+				<hazszam>8</hazszam>			
+			</cim>
+			<telefonszam>0618814000</telefonszam>
+			<weblap>https://www.morganstanley.com/</weblap>
+		</ceg>
+		<beosztas>Java fejlesztő</beosztas>
+		<telefonszam>06303390847</telefonszam>
+		<email>marcell.simon@gmail.com</email>
+	</nevjegykartya>
+	<nevjegykartya>
+		<nev>Simon Bence</nev>
+		<ceg>
+			<nev>evosoft Hungary Kft.</nev>
+			<cim>
+				<iranyitoszam>3526</iranyitoszam>
+				<varos>Miskolc</varos>
+				<utca>Arany János tér</utca>
+				<hazszam>1</hazszam>			
+			</cim>
+			<telefonszam>0646501120</telefonszam>
+			<weblap>https://www.evosoft.hu/</weblap>
+		</ceg>
+		<beosztas>Python fejlesztő</beosztas>
+		<telefonszam>06301234567</telefonszam>
+		<email>bence.simon@gmail.com</email>
+	</nevjegykartya>
+</nevjegykartyak>	

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified"
+           attributeFormDefault="qualified">
+           
+	<xs:element name="nevjegykartyak">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="nevjegykartya" type="nevjegykartya_tipus" maxOccurs="unbounded" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:complexType name="nevjegykartya_tipus">
+		<xs:sequence>
+			<xs:element name="nev" type="xs:string"/>
+			<xs:element name="ceg" type="ceg_tipus"/>
+			<xs:element name="beosztas" type="xs:string"/>
+			<xs:element name="telefonszam" type="telefonszam_tipus"/>
+			<xs:element name="email" type="email_tipus"/>
+		</xs:sequence>		
+	</xs:complexType>
+</xs:schema>
