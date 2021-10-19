@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<szemelyek>
+	<szemely id="o01">
+		<nev>Simon Marcell</nev>
+		<kor>26</kor>
+		<varos>Miskolc</varos>
+	</szemely>
+	
+	<szemely id="o02">
+		<nev>Kovács Viola</nev>
+		<kor>29</kor>
+		<varos>Szeged</varos>
+	</szemely>
+	
+	<szemely id="o03">
+		<nev>Bede Lajos</nev>
+		<kor>59</kor>
+		<varos>Győr</varos>
+	</szemely>
+</szemelyek>
