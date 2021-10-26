@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="usersK9IVJV.xsd">
+    <user id="1">
+        <firstname>Marcell</firstname>
+        <lastname>Simon</lastname>
+        <profession>programmer</profession>
+    </user>
+    <user id="2">
+        <firstname>Emmy</firstname>
+        <lastname>Noether</lastname>
+        <profession>mathematician</profession>
+    </user>
+    <user id="3">
+        <firstname>Gordon</firstname>
+        <lastname>Ramsay</lastname>
+        <profession>chef</profession>
+    </user>
+</users>
