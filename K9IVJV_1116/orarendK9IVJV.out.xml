@@ -1,0 +1,40 @@
+<html>
+<body>
+<h2>Simon Marcell &oacute;rarend &ndash; 2021/22. I. f&eacute;l&eacute;v.</h2>
+<table border="1">
+<tr bgcolor="#c8f542">
+<th>Nap</th><th>Kezd&eacute;s</th><th>V&eacute;ge</th><th>T&aacute;rgy</th><th>T&iacute;pus</th><th>Helysz&iacute;n</th><th>Oktat&oacute;</th><th>Szak</th>
+</tr>
+<tr>
+<td>H&eacute;tfő</td><td>8:00</td><td>10:00</td><td>Algoritmusok &eacute;s vizsg&aacute;latuk</td><td>Előad&aacute;s</td><td>A3 313.</td><td>Dr. H&aacute;zy Attila</td><td>PTI|MI</td>
+</tr>
+<tr>
+<td>H&eacute;tfő</td><td>10:00</td><td>12:00</td><td>Algoritmusok &eacute;s vizsg&aacute;latuk</td><td>Gyakorlat</td><td>A3 313.</td><td>Dr. H&aacute;zy Attila</td><td>PTI|MI</td>
+</tr>
+<tr>
+<td>H&eacute;tfő</td><td>12:00</td><td>14:00</td><td>Web technol&oacute;gi&aacute;k 1.</td><td>Előad&aacute;s</td><td>A1 305.</td><td>Ag&aacute;rdi Anita</td><td>PTI|MI</td>
+</tr>
+<tr>
+<td>H&eacute;tfő</td><td>14:00</td><td>17:00</td><td>Mesters&eacute;ges intelligencia alapok</td><td>Előad&aacute;s</td><td>A1 XXXII.</td><td>Dr. Dud&aacute;s L&aacute;szl&oacute;</td><td>PTI|MI</td>
+</tr>
+<tr>
+<td>Kedd</td><td>12:00</td><td>14:00</td><td>Adatkezel&eacute;s XML-ben</td><td>Előad&aacute;s</td><td>A2 f&ouml;ldszint I.</td><td>Dr Bednarik L&aacute;szl&oacute;</td><td>PTI</td>
+</tr>
+<tr>
+<td>Kedd</td><td>14:00</td><td>16:00</td><td>Adatkezel&eacute;s XML-ben</td><td>Gyakorlat</td><td>Informatika &eacute;p&uuml;let 103.</td><td>Dr Bednarik L&aacute;szl&oacute;</td><td>PTI</td>
+</tr>
+<tr>
+<td>Kedd</td><td>16:00</td><td>18:00</td><td>Web technol&oacute;gi&aacute;k 1.</td><td>Gyakorlat</td><td>Informatika &eacute;p&uuml;let 103.</td><td>Ag&aacute;rdi Anita</td><td>PTI|MI</td>
+</tr>
+<tr>
+<td>Szerda</td><td>13:00</td><td>14:00</td><td>Mesters&eacute;ges intelligencia alapok</td><td>Gyakorlat</td><td>Informatika &eacute;p&uuml;let 15.</td><td>Dr. Dud&aacute;s L&aacute;szl&oacute;</td><td>PTI|MI</td>
+</tr>
+<tr>
+<td>Szerda</td><td>16:00</td><td>18:00</td><td>V&aacute;llalati inform&aacute;ci&oacute;s rendszerek fejleszt&eacute;se</td><td>Előad&aacute;s</td><td>Informatika &eacute;p&uuml;let 103.</td><td>Dr. Sasv&aacute;ri P&eacute;ter L&aacute;szl&oacute;</td><td>PTI</td>
+</tr>
+<tr>
+<td>Szerda</td><td>18:00</td><td>20:00</td><td>V&aacute;llalati inform&aacute;ci&oacute;s rendszerek fejleszt&eacute;se</td><td>Gyakorlat</td><td>Informatika &eacute;p&uuml;let 103.</td><td>Dr. Sasv&aacute;ri P&eacute;ter L&aacute;szl&oacute;</td><td>PTI</td>
+</tr>
+</table>
+</body>
+</html>
