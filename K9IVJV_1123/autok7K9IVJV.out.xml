@@ -1,17 +1,1 @@
-<!DOCTYPE HTML><html lang="hu">
-   <h2>Városonkénti autók darabszáma és összára</h2>
-   <ul>
-      <li>Eger
-         <ul>
-            <li>1 db autó</li>
-            <li>Átlagáruk: 21233</li>
-         </ul>
-      </li>
-      <li>Miskolc
-         <ul>
-            <li>3 db autó</li>
-            <li>Átlagáruk: 32233</li>
-         </ul>
-      </li>
-   </ul>
-</html>
+<?xml version="1.0" encoding="UTF-8"?><autok><auto rsz="ABC-100"><ar>21233</ar></auto><auto rsz="ABC-103"><ar>21233</ar></auto><auto rsz="ABC-102"><ar>31233</ar></auto><auto rsz="ABC-101"><ar>44233</ar></auto></autok>

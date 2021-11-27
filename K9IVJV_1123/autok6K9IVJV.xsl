@@ -2,13 +2,16 @@
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 	<xsl:template match="/">
-		<html>
-			<h2>Autótípusok és példányaik darabszáma példányszám szerinti csökkenő sorrendben</h2>
+		<html lang="hu">
+			<h2>Városonkénti autók darabszáma és összára</h2>
 			<ul>
-				<xsl:for-each-group select="/autok/auto" group-by="tipus">
-					<xsl:sort select="count(current-group())" order="descending"/>
+				<xsl:for-each-group select="/autok/auto" group-by="tulaj/varos">
 					<li>
-						<xsl:value-of select="current-grouping-key()"/>: <xsl:value-of select="count(current-group())"/>
+						<xsl:value-of select="current-grouping-key()"/>
+						<ul>
+							<li><xsl:value-of select="count(current-group())"/> db autó</li>
+							<li>Átlagáruk: <xsl:value-of select="avg(current-group()/ar)"/></li>
+						</ul>
 					</li>
 				</xsl:for-each-group>
 			</ul>
