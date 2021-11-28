@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified"
+           attributeFormDefault="qualified">
+
+    <!--Egyszerű elemek definíciói-->
+    <xs:element name="nev" type="xs:string"/>
+    <xs:element name="szuletesihely" type="xs:string"/>
+    <xs:element name="szuletesiido" type="xs:date"/>
+    <xs:element name="allampolgarsag" type="xs:string"/>
+    <xs:element name="alapitaseve" type="xs:integer"/>
+    <xs:element name="edzo" type="xs:string"/>
+    <xs:element name="helyezes" type="xs:integer"/>
+    <xs:element name="sportag" type="xs:string"/>
+    <xs:element name="helyszin" type="xs:string"/>
+    <xs:element name="datum" type="xs:date"/>
+
+    <!--Attribútumok definíciói-->
+    <xs:attribute name="jatekos_ID" type="xs:integer"/>
+    <xs:attribute name="csapat_IDREF" type="xs:integer"/>
+    <xs:attribute name="csapat_ID" type="xs:integer"/>
+    <xs:attribute name="kapitany_IDREF" type="xs:integer"/>
+    <xs:attribute name="sportesemeny_IDREF" type="xs:integer"/>
+    <xs:attribute name="sportesemeny_ID" type="xs:integer"/>
+    <xs:attribute name="jatekvezeto_IDREF" type="xs:integer"/>
+    <xs:attribute name="jatekvezeto_ID" type="xs:integer"/>
+
+    <!--Összetett típusok definíciói-->
+    <xs:complexType name="szuletesiadatok_tipus">
+        <xs:sequence>
+            <xs:element ref="szuletesihely"/>
+            <xs:element ref="szuletesiido"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ember_tipus">
+        <xs:sequence>
+            <xs:element ref="nev"/>
+            <xs:element name="szuletesiadatok" type="szuletesiadatok_tipus"/>
+            <xs:element ref="allampolgarsag"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:simpleType name="poszt_tipus">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="kapus"/>
+            <xs:enumeration value="védő"/>
+            <xs:enumeration value="középpályás"/>
+            <xs:enumeration value="támadó"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="jatekos_tipus">
+        <xs:complexContent>
+            <xs:extension base="ember_tipus">
+                <xs:sequence>
+                    <xs:element name="poszt" type="poszt_tipus" maxOccurs="unbounded"/>
+                </xs:sequence>
+                <xs:attribute ref="jatekos_ID" use="required"/>
+                <xs:attribute ref="csapat_IDREF" use="required"/>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="jatekosok_tipus">
+        <xs:sequence>
+            <xs:element name="jatekos" type="jatekos_tipus" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="csapat_tipus">
+        <xs:sequence>
+            <xs:element ref="nev"/>
+            <xs:element ref="alapitaseve"/>
+            <xs:element ref="edzo"/>
+        </xs:sequence>
+        <xs:attribute ref="csapat_ID" use="required"/>
+        <xs:attribute ref="kapitany_IDREF" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="csapatok_tipus">
+        <xs:sequence>
+            <xs:element name="csapat" type="csapat_tipus" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="reszvetel_tipus">
+        <xs:sequence>
+            <xs:element ref="helyezes"/>
+        </xs:sequence>
+        <xs:attribute ref="sportesemeny_IDREF" use="required"/>
+        <xs:attribute ref="csapat_IDREF" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="reszvetelek_tipus">
+        <xs:sequence>
+            <xs:element name="reszvetel" type="reszvetel_tipus" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="sportesemeny_tipus">
+        <xs:sequence>
+            <xs:element ref="sportag"/>
+            <xs:element ref="helyszin"/>
+            <xs:element ref="datum"/>
+        </xs:sequence>
+        <xs:attribute ref="sportesemeny_ID" use="required"/>
+        <xs:attribute ref="jatekvezeto_IDREF"/>
+    </xs:complexType>
+
+    <xs:complexType name="sportesemenyek_tipus">
+        <xs:sequence>
+            <xs:element name="sportesemeny" type="sportesemeny_tipus" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="jatekvezeto_tipus">
+        <xs:complexContent>
+            <xs:extension base="ember_tipus">
+                <xs:attribute ref="jatekvezeto_ID" use="required"/>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="jatekvezetok_tipus">
+        <xs:sequence>
+            <xs:element name="jatekvezeto" type="jatekvezeto_tipus" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!--Teljes séma-->
+    <xs:element name="sportesemenyekadatrendszere">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="jatekosok" type="jatekosok_tipus"/>
+                <xs:element name="csapatok" type="csapatok_tipus"/>
+                <xs:element name="reszvetelek" type="reszvetelek_tipus"/>
+                <xs:element name="sportesemenyek" type="sportesemenyek_tipus"/>
+                <xs:element name="jatekvezetok" type="jatekvezetok_tipus"/>
+            </xs:sequence>
+        </xs:complexType>
+
+        <!--Kulcsok-->
+        <!--Primary Keys-->
+        <xs:key name="jatekos_PK">
+            <xs:selector xpath="jatekosok/jatekos"/>
+            <xs:field xpath="@jatekos_ID"/>
+        </xs:key>
+        <xs:key name="csapat_PK">
+            <xs:selector xpath="csapatok/csapat"/>
+            <xs:field xpath="@csapat_ID"/>
+        </xs:key>
+        <xs:key name="sportesemeny_PK">
+            <xs:selector xpath="sportesemenyek/sportesemeny"/>
+            <xs:field xpath="@sportesemeny_ID"/>
+        </xs:key>
+        <xs:key name="jatekvezeto_PK">
+            <xs:selector xpath="jatekvezetok/jatekvezeto"/>
+            <xs:field xpath="@jatekvezeto_ID"/>
+        </xs:key>
+
+        <!--Foreign Keys-->
+        <xs:keyref name="jcsapat_FK" refer="csapat_PK">
+            <xs:selector xpath="jatekosok/jatekos"/>
+            <xs:field xpath="@csapat_IDREF"/>
+        </xs:keyref>
+        <xs:keyref name="kapitany_FK" refer="jatekos_PK">
+            <xs:selector xpath="csapatok/csapat"/>
+            <xs:field xpath="@kapitany_IDREF"/>
+        </xs:keyref>
+        <xs:keyref name="rcsapat_FK" refer="csapat_PK">
+            <xs:selector xpath="reszvetelek/reszvetel"/>
+            <xs:field xpath="@csapat_IDREF"/>
+        </xs:keyref>
+        <xs:keyref name="sportesemeny_FK" refer="sportesemeny_PK">
+            <xs:selector xpath="reszvetelek/reszvetel"/>
+            <xs:field xpath="@sportesemeny_IDREF"/>
+        </xs:keyref>
+        <xs:keyref name="jatekvezeto_FK" refer="jatekvezeto_PK">
+            <xs:selector xpath="sportesemenyek/sportesemeny"/>
+            <xs:field xpath="@jatekvezeto_IDREF"/>
+        </xs:keyref>
+    </xs:element>
+</xs:schema>

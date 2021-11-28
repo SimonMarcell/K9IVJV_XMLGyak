@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<sportesemenyekadatrendszere xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             xsi:noNamespaceSchemaLocation="XMLSchemaK9IVJV.xsd">
+    <jatekosok>
+        <jatekos jatekos_ID="01" csapat_IDREF="06">
+            <nev>Takács Mihály</nev>
+            <szuletesiadatok>
+                <szuletesihely>Budapest</szuletesihely>
+                <szuletesiido>1988-08-08</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>középpályás</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="02" csapat_IDREF="02">
+            <nev>Szekeres Róbert</nev>
+            <szuletesiadatok>
+                <szuletesihely>Budapest</szuletesihely>
+                <szuletesiido>1988-09-30</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>kapus</poszt>
+            <poszt>támadó</poszt>
+            <poszt>középpályás</poszt>
+            <poszt>védő</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="03" csapat_IDREF="01">
+            <nev>Miksa Szilárd</nev>
+            <szuletesiadatok>
+                <szuletesihely>Debrecen</szuletesihely>
+                <szuletesiido>1989-01-18</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>kapus</poszt>
+            <poszt>támadó</poszt>
+            <poszt>középpályás</poszt>
+            <poszt>védő</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="04" csapat_IDREF="03">
+            <nev>László Antal</nev>
+            <szuletesiadatok>
+                <szuletesihely>Markotabödöge</szuletesihely>
+                <szuletesiido>1990-06-18</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>középpályás</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="05" csapat_IDREF="04">
+            <nev>Egyed Zoltán</nev>
+            <szuletesiadatok>
+                <szuletesihely>Debrecen</szuletesihely>
+                <szuletesiido>1990-11-19</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="06" csapat_IDREF="05">
+            <nev>Szalai Adrián</nev>
+            <szuletesiadatok>
+                <szuletesihely>Szeged</szuletesihely>
+                <szuletesiido>1991-01-15</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>középpályás</poszt>
+            <poszt>kapus</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="07" csapat_IDREF="01">
+            <nev>Kapolcs Vilmos</nev>
+            <szuletesiadatok>
+                <szuletesihely>Budapest</szuletesihely>
+                <szuletesiido>1991-02-26</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>kapus</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="08" csapat_IDREF="03">
+            <nev>Apród Levente</nev>
+            <szuletesiadatok>
+                <szuletesihely>Debrecen</szuletesihely>
+                <szuletesiido>1992-05-29</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>kapus</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="09" csapat_IDREF="06">
+            <nev>Simon János</nev>
+            <szuletesiadatok>
+                <szuletesihely>Szeged</szuletesihely>
+                <szuletesiido>1992-07-13</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>kapus</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="10" csapat_IDREF="02">
+            <nev>Dobos Dezső</nev>
+            <szuletesiadatok>
+                <szuletesihely>Mikekarácsonyfa</szuletesihely>
+                <szuletesiido>1992-08-26</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>középpályás</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="11" csapat_IDREF="05">
+            <nev>Bakos György</nev>
+            <szuletesiadatok>
+                <szuletesihely>Budapest</szuletesihely>
+                <szuletesiido>1993-06-25</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>kapus</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="12" csapat_IDREF="04">
+            <nev>Pintér Attila</nev>
+            <szuletesiadatok>
+                <szuletesihely>Ásványráró</szuletesihely>
+                <szuletesiido>1993-10-18</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>kapus</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="13" csapat_IDREF="05">
+            <nev>Nemes Vilmos</nev>
+            <szuletesiadatok>
+                <szuletesihely>Kerkabarabás</szuletesihely>
+                <szuletesiido>1993-12-13</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>kapus</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="14" csapat_IDREF="02">
+            <nev>Kerekes Ákos</nev>
+            <szuletesiadatok>
+                <szuletesihely>Miskolc</szuletesihely>
+                <szuletesiido>1994-05-08</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>középpályás</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="15" csapat_IDREF="01">
+            <nev>Molnár Arnold</nev>
+            <szuletesiadatok>
+                <szuletesihely>Pécs</szuletesihely>
+                <szuletesiido>1994-06-25</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>középpályás</poszt>
+            <poszt>kapus</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="16" csapat_IDREF="03">
+            <nev>Jónás Benedek</nev>
+            <szuletesiadatok>
+                <szuletesihely>Budapest</szuletesihely>
+                <szuletesiido>1994-12-06</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>középpályás</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="17" csapat_IDREF="06">
+            <nev>Hajdú Gyula</nev>
+            <szuletesiadatok>
+                <szuletesihely>Chernelházadamonya</szuletesihely>
+                <szuletesiido>1995-12-31</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>középpályás</poszt>
+            <poszt>kapus</poszt>
+            <poszt>támadó</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="18" csapat_IDREF="04">
+            <nev>Váradi Ádám</nev>
+            <szuletesiadatok>
+                <szuletesihely>Szeged</szuletesihely>
+                <szuletesiido>1996-01-03</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>kapus</poszt>
+            <poszt>támadó</poszt>
+            <poszt>középpályás</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="19" csapat_IDREF="04">
+            <nev>Orosz Miklós</nev>
+            <szuletesiadatok>
+                <szuletesihely>Miskolc</szuletesihely>
+                <szuletesiido>1996-07-23</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>kapus</poszt>
+            <poszt>középpályás</poszt>
+            <poszt>támadó</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="20" csapat_IDREF="05">
+            <nev>Budai Marcell</nev>
+            <szuletesiadatok>
+                <szuletesihely>Pókaszepetk</szuletesihely>
+                <szuletesiido>1997-04-12</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>támadó</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="21" csapat_IDREF="03">
+            <nev>Csonka Antal</nev>
+            <szuletesiadatok>
+                <szuletesihely>Győr</szuletesihely>
+                <szuletesiido>1997-07-08</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>középpályás</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="22" csapat_IDREF="02">
+            <nev>Halász Károly</nev>
+            <szuletesiadatok>
+                <szuletesihely>Kiskundorozsma</szuletesihely>
+                <szuletesiido>1998-06-07</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>középpályás</poszt>
+            <poszt>kapus</poszt>
+            <poszt>támadó</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="23" csapat_IDREF="01">
+            <nev>Vincze Henrik</nev>
+            <szuletesiadatok>
+                <szuletesihely>Debrecen</szuletesihely>
+                <szuletesiido>1998-09-01</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>középpályás</poszt>
+            <poszt>kapus</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="24" csapat_IDREF="03">
+            <nev>Pásztor Jakab</nev>
+            <szuletesiadatok>
+                <szuletesihely>Szeged</szuletesihely>
+                <szuletesiido>1998-09-30</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="25" csapat_IDREF="03">
+            <nev>Pataki Viktor</nev>
+            <szuletesiadatok>
+                <szuletesihely>Miskolc</szuletesihely>
+                <szuletesiido>2001-03-21</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>kapus</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="26" csapat_IDREF="06">
+            <nev>Nemes Bence</nev>
+            <szuletesiadatok>
+                <szuletesihely>Pécs</szuletesihely>
+                <szuletesiido>1988-07-28</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>kapus</poszt>
+            <poszt>középpályás</poszt>
+            <poszt>támadó</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="27" csapat_IDREF="04">
+            <nev>Bálint József</nev>
+            <szuletesiadatok>
+                <szuletesihely>Győr</szuletesihely>
+                <szuletesiido>1988-11-19</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>középpályás</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="28" csapat_IDREF="01">
+            <nev>Antal Soma</nev>
+            <szuletesiadatok>
+                <szuletesihely>Nyíregyháza</szuletesihely>
+                <szuletesiido>1989-09-30</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>kapus</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="29" csapat_IDREF="05">
+            <nev>Juhász Csongor</nev>
+            <szuletesiadatok>
+                <szuletesihely>Zalaegerszeg</szuletesihely>
+                <szuletesiido>1989-10-19</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+            <poszt>középpályás</poszt>
+        </jatekos>
+        <jatekos jatekos_ID="30" csapat_IDREF="02">
+            <nev>Szőke Jakab</nev>
+            <szuletesiadatok>
+                <szuletesihely>Jászfelsőszentgyörgy</szuletesihely>
+                <szuletesiido>1990-03-07</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+            <poszt>védő</poszt>
+        </jatekos>
+    </jatekosok>
+    <csapatok>
+        <csapat csapat_ID="01" kapitany_IDREF="03">
+            <nev>HÓDGÉP-Metripond</nev>
+            <alapitaseve>1951</alapitaseve>
+            <edzo>Kozma Benjámin</edzo>
+        </csapat>
+        <csapat csapat_ID="02" kapitany_IDREF="10">
+            <nev>Tintahalak</nev>
+            <alapitaseve>1915</alapitaseve>
+            <edzo>Márton Tibor</edzo>
+        </csapat>
+        <csapat csapat_ID="03" kapitany_IDREF="08">
+            <nev>Hercules Fiai Honvéd SE</nev>
+            <alapitaseve>1944</alapitaseve>
+            <edzo>Pataki Rajmund</edzo>
+        </csapat>
+        <csapat csapat_ID="04" kapitany_IDREF="27">
+            <nev>Mozgás Öröm SE</nev>
+            <alapitaseve>1960</alapitaseve>
+            <edzo>Hajdú Kevin</edzo>
+        </csapat>
+        <csapat csapat_ID="05" kapitany_IDREF="11">
+            <nev>Ifjú Kenyér Börcs Községi SE</nev>
+            <alapitaseve>1988</alapitaseve>
+            <edzo>Fülöp Levente</edzo>
+        </csapat>
+        <csapat csapat_ID="06" kapitany_IDREF="01">
+            <nev>Sáta Red Devils</nev>
+            <alapitaseve>1929</alapitaseve>
+            <edzo>Szücs Marcell</edzo>
+        </csapat>
+    </csapatok>
+    <reszvetelek>
+        <reszvetel sportesemeny_IDREF="1" csapat_IDREF="01">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="1" csapat_IDREF="02">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="1" csapat_IDREF="03">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="1" csapat_IDREF="04">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="1" csapat_IDREF="05">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="1" csapat_IDREF="06">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="2" csapat_IDREF="01">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="2" csapat_IDREF="02">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="2" csapat_IDREF="03">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="2" csapat_IDREF="04">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="2" csapat_IDREF="05">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="2" csapat_IDREF="06">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="3" csapat_IDREF="01">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="3" csapat_IDREF="02">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="3" csapat_IDREF="03">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="3" csapat_IDREF="04">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="3" csapat_IDREF="05">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="3" csapat_IDREF="06">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="4" csapat_IDREF="01">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="4" csapat_IDREF="02">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="4" csapat_IDREF="03">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="4" csapat_IDREF="04">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="4" csapat_IDREF="05">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="4" csapat_IDREF="06">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="5" csapat_IDREF="01">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="5" csapat_IDREF="02">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="5" csapat_IDREF="03">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="5" csapat_IDREF="04">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="5" csapat_IDREF="05">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="5" csapat_IDREF="06">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="6" csapat_IDREF="01">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="6" csapat_IDREF="02">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="6" csapat_IDREF="03">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="6" csapat_IDREF="04">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="6" csapat_IDREF="05">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="6" csapat_IDREF="06">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="7" csapat_IDREF="01">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="7" csapat_IDREF="02">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="7" csapat_IDREF="03">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="7" csapat_IDREF="04">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="7" csapat_IDREF="05">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="7" csapat_IDREF="06">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="8" csapat_IDREF="01">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="8" csapat_IDREF="02">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="8" csapat_IDREF="03">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="8" csapat_IDREF="04">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="8" csapat_IDREF="05">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="8" csapat_IDREF="06">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="9" csapat_IDREF="01">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="9" csapat_IDREF="02">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="9" csapat_IDREF="03">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="9" csapat_IDREF="04">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="9" csapat_IDREF="05">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="9" csapat_IDREF="06">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="10" csapat_IDREF="01">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="10" csapat_IDREF="02">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="10" csapat_IDREF="03">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="10" csapat_IDREF="04">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="10" csapat_IDREF="05">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="10" csapat_IDREF="06">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="11" csapat_IDREF="01">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="11" csapat_IDREF="02">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="11" csapat_IDREF="03">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="11" csapat_IDREF="04">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="11" csapat_IDREF="05">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="11" csapat_IDREF="06">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="12" csapat_IDREF="01">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="12" csapat_IDREF="02">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="12" csapat_IDREF="03">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="12" csapat_IDREF="04">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="12" csapat_IDREF="05">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="12" csapat_IDREF="06">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="13" csapat_IDREF="01">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="13" csapat_IDREF="02">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="13" csapat_IDREF="03">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="13" csapat_IDREF="04">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="13" csapat_IDREF="05">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="13" csapat_IDREF="06">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="14" csapat_IDREF="01">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="14" csapat_IDREF="02">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="14" csapat_IDREF="03">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="14" csapat_IDREF="04">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="14" csapat_IDREF="05">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="14" csapat_IDREF="06">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="15" csapat_IDREF="01">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="15" csapat_IDREF="02">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="15" csapat_IDREF="03">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="15" csapat_IDREF="04">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="15" csapat_IDREF="05">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="15" csapat_IDREF="06">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="16" csapat_IDREF="01">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="16" csapat_IDREF="02">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="16" csapat_IDREF="03">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="16" csapat_IDREF="04">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="16" csapat_IDREF="05">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="16" csapat_IDREF="06">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="17" csapat_IDREF="01">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="17" csapat_IDREF="02">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="17" csapat_IDREF="03">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="17" csapat_IDREF="04">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="17" csapat_IDREF="05">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="17" csapat_IDREF="06">
+            <helyezes>1</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="18" csapat_IDREF="01">
+            <helyezes>4</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="18" csapat_IDREF="02">
+            <helyezes>6</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="18" csapat_IDREF="03">
+            <helyezes>3</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="18" csapat_IDREF="04">
+            <helyezes>5</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="18" csapat_IDREF="05">
+            <helyezes>2</helyezes>
+        </reszvetel>
+        <reszvetel sportesemeny_IDREF="18" csapat_IDREF="06">
+            <helyezes>1</helyezes>
+        </reszvetel>
+    </reszvetelek>
+    <sportesemenyek>
+        <sportesemeny sportesemeny_ID="1" jatekvezeto_IDREF="6">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Miskolc</helyszin>
+            <datum>2018-01-30</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="2" jatekvezeto_IDREF="6">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Miskolc</helyszin>
+            <datum>2018-04-04</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="3" jatekvezeto_IDREF="8">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Pécs</helyszin>
+            <datum>2018-05-07</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="4" jatekvezeto_IDREF="3">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Miskolc</helyszin>
+            <datum>2018-06-21</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="5" jatekvezeto_IDREF="9">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Pécs</helyszin>
+            <datum>2018-06-27</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="6" jatekvezeto_IDREF="7">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Győr</helyszin>
+            <datum>2018-09-22</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="7" jatekvezeto_IDREF="1">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Miskolc</helyszin>
+            <datum>2018-05-10</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="8" jatekvezeto_IDREF="9">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Pécs</helyszin>
+            <datum>2018-10-08</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="9" jatekvezeto_IDREF="7">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Győr</helyszin>
+            <datum>2018-10-11</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="10" jatekvezeto_IDREF="10">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Nyíregyháza</helyszin>
+            <datum>2018-10-15</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="11" jatekvezeto_IDREF="4">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Miskolc</helyszin>
+            <datum>2019-01-11</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="12" jatekvezeto_IDREF="2">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Pécs</helyszin>
+            <datum>2019-02-17</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="13" jatekvezeto_IDREF="7">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Győr</helyszin>
+            <datum>2019-07-27</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="14" jatekvezeto_IDREF="8">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Nyíregyháza</helyszin>
+            <datum>2019-09-26</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="15" jatekvezeto_IDREF="5">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Kecskemét</helyszin>
+            <datum>2020-02-13</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="16" jatekvezeto_IDREF="6">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Székesfehérvár</helyszin>
+            <datum>2020-09-04</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="17" jatekvezeto_IDREF="6">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Szombathely</helyszin>
+            <datum>2020-05-13</datum>
+        </sportesemeny>
+        <sportesemeny sportesemeny_ID="18" jatekvezeto_IDREF="4">
+            <sportag>labdarúgás</sportag>
+            <helyszin>Szolnok</helyszin>
+            <datum>2020-08-13</datum>
+        </sportesemeny>
+    </sportesemenyek>
+    <jatekvezetok>
+        <jatekvezeto jatekvezeto_ID="1">
+            <nev>Apród Gyula</nev>
+            <szuletesiadatok>
+                <szuletesihely>Makkoshotyka</szuletesihely>
+                <szuletesiido>1968-10-12</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+        </jatekvezeto>
+        <jatekvezeto jatekvezeto_ID="2">
+            <nev>Péter Ármin</nev>
+            <szuletesiadatok>
+                <szuletesihely>Papkeszi</szuletesihely>
+                <szuletesiido>1984-03-21</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+        </jatekvezeto>
+        <jatekvezeto jatekvezeto_ID="3">
+            <nev>Fábián Alex</nev>
+            <szuletesiadatok>
+                <szuletesihely>Révfülöp</szuletesihely>
+                <szuletesiido>1960-10-22</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+        </jatekvezeto>
+        <jatekvezeto jatekvezeto_ID="4">
+            <nev>Fekete Gábor</nev>
+            <szuletesiadatok>
+                <szuletesihely>Kaposgyarmat</szuletesihely>
+                <szuletesiido>1971-10-10</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+        </jatekvezeto>
+        <jatekvezeto jatekvezeto_ID="5">
+            <nev>Balog Ádám</nev>
+            <szuletesiadatok>
+                <szuletesihely>Uzsa</szuletesihely>
+                <szuletesiido>1990-04-29</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+        </jatekvezeto>
+        <jatekvezeto jatekvezeto_ID="6">
+            <nev>Somogyi Imre</nev>
+            <szuletesiadatok>
+                <szuletesihely>Celldömölk</szuletesihely>
+                <szuletesiido>1965-12-14</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+        </jatekvezeto>
+        <jatekvezeto jatekvezeto_ID="7">
+            <nev>Nagy Renátó</nev>
+            <szuletesiadatok>
+                <szuletesihely>Majosháza</szuletesihely>
+                <szuletesiido>1968-09-21</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+        </jatekvezeto>
+        <jatekvezeto jatekvezeto_ID="8">
+            <nev>Deák András</nev>
+            <szuletesiadatok>
+                <szuletesihely>Nyírparasznya</szuletesihely>
+                <szuletesiido>1975-11-21</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+        </jatekvezeto>
+        <jatekvezeto jatekvezeto_ID="9">
+            <nev>Faragó Bendegúz</nev>
+            <szuletesiadatok>
+                <szuletesihely>Felsőpakony</szuletesihely>
+                <szuletesiido>1977-06-02</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+        </jatekvezeto>
+        <jatekvezeto jatekvezeto_ID="10">
+            <nev>Székely Richárd</nev>
+            <szuletesiadatok>
+                <szuletesihely>Gyulaj</szuletesihely>
+                <szuletesiido>1966-08-28</szuletesiido>
+            </szuletesiadatok>
+            <allampolgarsag>magyar</allampolgarsag>
+        </jatekvezeto>
+    </jatekvezetok>
+</sportesemenyekadatrendszere>
